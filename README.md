@@ -1,5 +1,5 @@
 # CO2-visualized
-A script that automatically gathers and plots data regarding atmospheric carbon dioxide levels. Plots can be found [here](https://isaacdarling.com/2020/07/12/carbon-dioxide-levels/):
+A script that automatically gathers and plots data regarding atmospheric carbon dioxide levels. Plots can be found [here](https://isaacdarling.com/2020/07/12/carbon-dioxide-levels/).
 
 ## Notes:
 (Created circa July 2020, edited circa April 2021)  
